@@ -16,16 +16,18 @@ Before you begin, please ensure that your system meets the following requirement
 
 # Installation
 To install and set up the Fysio Project Application, follow these steps:
-Step 1: Download Docker
+
+## Step 1: Download Docker
 ● Visit the official Docker website at https://www.docker.com/
 ● Download the appropriate Docker version for your operating system.
 ● Install Docker by following the provided instructions.
-Step 2: Download the Project Image:
+
+## Step 2: Download the Project Image:
 ● Open a terminal or command prompt.
 ● Run the following command to download the project image:
 docker pull wattbreak/physio:clean
 
-# Step 3: Launch the Image
+## Step 3: Launch the Image
 Run the following command to launch the application:
 docker run -p 8050:8050 wattbreak/physio:clean
 
