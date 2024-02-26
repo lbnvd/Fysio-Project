@@ -32,4 +32,4 @@ docker run -p 8050:8050 wattbreak/physio:clean
 The application will start running. After a few seconds, open a browser and access the following website
 http://localhost:8050.
 
-Read the manual PDF to see how to use the application. 
+# Read the manual PDF to see how to use the application. 
